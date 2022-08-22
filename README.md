@@ -1,4 +1,4 @@
-# nonergodicity_code
+# Nonergodicity code
 
 This code accompanies the paper "The influence of dietary carbohydrate on perceived recovery status differs at the group and individual level – evidence of nonergodicity among endurance athletes".
 
